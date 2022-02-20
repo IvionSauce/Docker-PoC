@@ -27,14 +27,16 @@ phrases = (
     "Optimism is an occupational hazard of programming; feedback is the treatment.",
     "The test of the machine is the satisfaction it gives you. There isn't any other test. If the machine produces tranquility it's right. If it disturbs you it's wrong until either the machine or your mind is changed.",
     "Humans are the reproductive organs of technology.",
+    "The Internet is the Petri dish of humanity. We can't control what grows in it, but we don't have to watch either.",
     "Any sufficiently advanced technology is indistinguishable from magic.",
     "Explanations exist; they have existed for all time; there is always a well-known solution to every human problem - neat, plausible, and wrong.",
 
-        # But also mix in some serious phrases/quotes.
+    # But also mix in some serious phrases/quotes.
     "Debugging is twice as hard as writing the code in the first place.  Therefore, if you write the code as cleverly as possible, you are – by definition – not smart enough to debug it.",
     "Controlling complexity is the essence of computer programming.",
     "Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.",
     "Technology is a useful servant but a dangerous master.",
+    "The real danger is not that computers will begin to think like men, but that men will begin to think like computers.",
     "When I am working on a problem I never think about beauty, but when I have finished, if the solution is not beautiful, I know it is wrong.",
 )
 
